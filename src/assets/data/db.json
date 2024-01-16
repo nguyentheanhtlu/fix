@@ -1,0 +1,167 @@
+{
+    "tours": [
+        {
+            "id": "01",
+            "title": "Westminister Bridge",
+            "city": "London",
+            "distance": 300,
+            "price": 99,
+            "maxGroupSize": 10,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "avgrating": 4.5,
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour-img01.jpg?alt=media&token=40cabc27-e786-4805-8c73-22966c0e81e0",
+            "featured": true
+        },
+        {
+            "id": "02",
+            "title": "Bali, Indonesia",
+            "city": "Indonesia",
+            "distance": 400,
+            "price": 99,
+            "maxGroupSize": 8,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "avgrating": 4.5,
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour-img02.jpg?alt=media&token=1ec1c664-4897-490b-872a-454149ff55d0",
+            "featured": true
+        },
+        {
+            "id": "03",
+            "title": "Snowy Mountains, Thailand",
+            "city": "Thailand",
+            "distance": 500,
+            "price": 99,
+            "maxGroupSize": 8,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "avgrating": 4.5,
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour-img03.jpg?alt=media&token=9686fa7e-f50a-4128-a318-83f99ec6c78d",
+            "featured": true
+        },
+        {
+            "id": "04",
+            "title": "Beautiful Sunrise, Thailand",
+            "city": "Thailand",
+            "distance": 500,
+            "price": 99,
+            "maxGroupSize": 8,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "avgrating": 4.5,
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour-img04.jpg?alt=media&token=1ba977bc-eaed-4c86-902b-e6678a124f93",
+            "featured": true
+        },
+        {
+            "id": "05",
+            "title": "Nusa Pendia Bali, Indonesia",
+            "city": "Indonesia",
+            "distance": 500,
+            "price": 99,
+            "maxGroupSize": 8,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "avgrating": 4.5,
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour-img05.jpg?alt=media&token=19605839-1269-43b2-819c-8313c54473c7",
+            "featured": false
+        },
+        {
+            "id": "06",
+            "title": "Cherry Blossoms Spring",
+            "city": "Japan",
+            "distance": 500,
+            "price": 99,
+            "maxGroupSize": 8,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "avgrating": 4.5,
+            "photo": "/tour-images/tour-img06.jpg",
+            "featured": false
+        },
+        {
+            "id": "07",
+            "title": "Holmen Lofoten",
+            "city": "France",
+            "distance": 500,
+            "price": 99,
+            "maxGroupSize": 8,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "avgrating": 4.5,
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour-img07.jpg?alt=media&token=f18a17fd-1ee8-4452-b971-1c5c4c72d495",
+            "featured": false
+        },
+        {
+            "id": "08",
+            "title": "Jaflong, Sylhet",
+            "city": "Sylhet",
+            "address": "Somewhere in Sylhet",
+            "distance": 100,
+            "price": 99,
+            "maxGroupSize": 5,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour.jpg?alt=media&token=2702f7dc-2545-4f05-a867-36120d00ef14",
+            "featured": false
+        },
+        {
+            "id": "09",
+            "title": "Cox's Bazar Sea Beach",
+            "city": "Chittagong",
+            "address": "Somewhere in Chittagong",
+            "distance": 500,
+            "price": 99,
+            "maxGroupSize": 8,
+            "desc": "this is the description",
+            "reviews": [
+                {
+                    "name": "jhon doe",
+                    "rating": 4.6
+                }
+            ],
+        
+            "photo": "https://firebasestorage.googleapis.com/v0/b/travelbook-af83e.appspot.com/o/Tours%2Ftour-img09.jpg?alt=media&token=b731b68f-31c3-4ae5-8670-30f0ccf46b5a",
+            "featured": false
+          }
+    ]
+}

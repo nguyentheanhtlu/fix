@@ -1,0 +1,49 @@
+
+
+.footer {
+    padding: 70px;
+    padding-bottom: 30px;
+    /* background: #ccc; */
+
+}
+
+.footer .logo img{
+    width: 50%;
+    margin-bottom: 1rem;
+} 
+
+.logo p {
+    color: var(--text-color);
+}
+
+.social__links span a{
+    text-decoration: none;
+    color: var(--heading-color);
+    font-size: 1.2rem;
+}
+
+.footer__links-title {
+    color: var(--subtitle-color);
+    margin-bottom: 1rem;
+}
+
+.footer__quick-links li {
+    /* background-color: #ccc; */
+}
+.footer__quick-links a{
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 1.2rem;
+
+}
+
+.footer__quick-links h6 span i{
+    color: var(--secondary-color);
+    font-size: 1.2rem;
+
+}
+
+.copyight {
+    color: var(--text-color);
+    font-size: 1.2rem;
+}
